@@ -4,4 +4,4 @@
 Ohjelmistotuotannon teknologioita
 
 ### Heroku deploy
-Coming soon...
+https://makkemernapp.herokuapp.com/
